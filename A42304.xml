@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions touching printing a book entituled, De thermis Britannicis</title>
+            <author>Guidott, Thomas, fl. 1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42304</idno>
+            <idno type="STC">Wing G2197</idno>
+            <idno type="STC">ESTC R42059</idno>
+            <idno type="EEBO-CITATION">23348391</idno>
+            <idno type="OCLC">ocm 23348391</idno>
+            <idno type="VID">109542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1701:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions touching printing a book entituled, De thermis Britannicis</title>
+                  <author>Guidott, Thomas, fl. 1698.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1686?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Tho. Guidott.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>De thermis Britannicis.</term>
+               <term>Booksellers and bookselling --  England --  Colportage, subscription trade, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:109542:1" rendition="simple:additions"/>
+            <head>PROPOSITIONS touching Printing a Book, Entituled, <hi>De Thermis Britannicis.</hi>
+            </head>
+            <p>FORASMUCH as <hi>Thomas Guidott,</hi> Graduate in Phyſick, late of <hi>Wad<g ref="char:EOLhyphen"/>ham</hi> Colledge, <hi>Oxon,</hi> at his proper Charge, and after twenty years Experience of the Baths of <hi>Bathe,</hi> hath made many Experiments, and compos'd a Compleat Diſcourſe in <hi>Latin,</hi> concerning the Nature, Ver<g ref="char:EOLhyphen"/>tues, and Effects of thoſe Waters, Inwardly, and Outwardly uſed, ne<g ref="char:EOLhyphen"/>ver yet performed by any; peruſed and approved by many Learned, Judicious, and Ingenious Phyſicians, and Philoſophers, <hi>containing moſt new Matter, and many Diſcoveries not known to former Ages, with a new Hypotheſis of the Wa<g ref="char:EOLhyphen"/>ters Heat.</hi> To all ingenious and Learned Perſons, and others inclinable to pro<g ref="char:EOLhyphen"/>mote a Work of this Nature, the Author maketh theſe PROPOSALS:
+<list>
+                  <item>I. That the Book ſhall be Printed in <hi>Quarto,</hi> the Paper and Letter according to the <hi>Specimen</hi> annext; the Book to contain 60 Sheets, with ſeveral large Copper Cuts.</item>
+                  <item>II. That the Obſervations concerning the Weight, Tincturing, and Contents of the Bath-Water ſhall be inſerted; and alſo a fuller account than hath yet been given of the Nature and Vertues of the Hot-Well-Water of St. <hi>Vincents</hi> Rock near <hi>Briſtol.</hi>
+                  </item>
+                  <item>III. That ſome Obſervations, Counſels, and Epiſtles, relating to Perſons who have received Benefit by the Bath, ſhall be ſubjoin'd, with others of the like Nature of the Learned Doctor <hi>Maplet,</hi> late Phyſician there.</item>
+                  <item>IV. That the Antiquities of <hi>Bathe</hi> inlarged, ſhall be added diſtinct from the Treatiſe of the Waters of the Bath, with a perfect account of the Old Churches, and Monaſteries of St. <hi>Peter,</hi> and of this latter Church of St. <hi>Peter</hi> and <hi>Paul.</hi>
+                  </item>
+                  <item>V. That whoever ſhall Subſcribe five Shillings, half paid down, and half at delivery, ſhall receive a Note under the Hand of that Party to whom the Money ſhall be paid, to have a Book in 3 Months from the beginning of the Impreſſion.</item>
+                  <item>VI. That he that procures ſix Subſcriptions ſhall have a Book <hi>Gratis.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Perſons appointed to receive Subſcriptions are, Mr. <hi>Brabazon Aylmer,</hi> Book<g ref="char:EOLhyphen"/>ſeller, at the 3 Pigeons againſt the Royal Exchange <hi>Cornhill.</hi> Mr. <hi>Henry Sykes,</hi> A<g ref="char:EOLhyphen"/>pothecary, at the Golden Dragon in <hi>Leaden-Hall-Street.</hi> Mr. <hi>Pelling,</hi> Apotheca<g ref="char:EOLhyphen"/>ry, in <hi>Mark-Lane.</hi> Mr. <hi>Herne,</hi> Apothecary, in <hi>Warwick-Lane.</hi> Mr. <hi>William Leigh,</hi> Apothecary, at the Green Dragon and Bell, next door to the Grey<g ref="char:EOLhyphen"/>hound Tavern in <hi>Fleet-ſtreet.</hi> Mr. <hi>William Canning,</hi> in Vine-Court <hi>Middle-Temple,</hi> Stationer. Mr. <hi>Harriſon,</hi> Stationer, under <hi>Lincolns-Inn-gate.</hi> Mr. <hi>William Powle</hi> in <hi>Holbourn-Court Grays-Inn,</hi> Stationer. Mr. <hi>Samuel Doody,</hi> Apothecary, at the two Peſtles and Mortars againſt <hi>Salisbury-Houſe</hi> in the <hi>Strand.</hi> Mr. <hi>Thomas Gilmore,</hi> Apothecary, at the <hi>Queen's-Arms</hi> in <hi>Ruſſel-ſtreet, Covent-Garden.</hi> Mr. <hi>Hemming,</hi> Apothecary, in St. <hi>Martin</hi>'s-<hi>Lane.</hi> Mr. <hi>Richard Brigham,</hi> Apothecary, againſt the <hi>Bagnio</hi> in <hi>Long-Acre.</hi> Mr. <hi>Daniel Malthus,</hi> Apothecary, at the Mortar in the <hi>Pall-Mall.</hi> Mr. <hi>Thomas Ford,</hi> Apothecary, near <hi>Bloomesbury-Market.</hi> Mr. <hi>Richmond,</hi> Apothecary, in St. <hi>John</hi>'s <hi>ſtreet,</hi> near <hi>Smithfield, London.</hi> Mr. <hi>Thomas Jones,</hi> Apothecary, at the Graſshopper in <hi>King-ſtreet, Weſtminſter.</hi> Mr. <hi>Abraham Maunſer,</hi> Apothecary, againſt the <hi>Spur-Inn, South-wark.</hi> Mr. <hi>Weſt,</hi> Bookſeller in <hi>Oxon.</hi> Mr. <hi>Graves</hi> Jun. Book-ſeller in <hi>Cambridge.</hi> Mr. <hi>Henry Moor,</hi> Mr. <hi>Thomas Gibbs,</hi> Mr. <hi>Charles Childe,</hi> and Mr. <hi>Edward Woolmar,</hi> Apothecaries in <hi>Bathe.</hi> Mr. <hi>Richard Millechamp,</hi> Apothecary in <hi>Broad-ſtreet, Briſtol.</hi>
+            </p>
+            <closer>
+               <signed>THO. GUIDOTT.</signed>
+            </closer>
+         </div>
+         <div type="list_of_subscribers">
+            <pb facs="tcp:109542:2"/>
+            <head>SUBSCRIBERS.</head>
+            <list>
+               <item>
+                  <hi>Thomas Alvey,</hi> M. D.</item>
+               <item>
+                  <hi>John Atfield,</hi> M. D.</item>
+               <item>THOMAS Lord Biſhop of <hi>BATHE</hi> and <hi>Wells.</hi>
+               </item>
+               <item>The Honourable <hi>ROBERT BOYLE,</hi> Eſq;</item>
+               <item>Sir <hi>John Baber,</hi> Knight and Baronet.</item>
+               <item>
+                  <hi>Edward Baynard,</hi> M. D.</item>
+               <item>
+                  <hi>Peter Berwick,</hi> M. D.</item>
+               <item>
+                  <hi>Humphrey Brooke,</hi> M. D.</item>
+               <item>
+                  <hi>Edward Browne,</hi> M. D.</item>
+               <item>
+                  <hi>Peter Calfe,</hi> Eſq;</item>
+               <item>
+                  <hi>Walter Charleton,</hi> M. D</item>
+               <item>
+                  <hi>Samuel Collins,</hi> M. D.</item>
+               <item>
+                  <hi>Edmund Dickinſon,</hi> M. D.</item>
+               <item>FRANCIS Lord Biſhop of <hi>ELY.</hi>
+               </item>
+               <item>Sir <hi>George Ent,</hi> Knight.</item>
+               <item>
+                  <hi>Robert Fielding,</hi> M. D.</item>
+               <item>
+                  <hi>Nehemiah Grew,</hi> M. D.</item>
+               <item>
+                  <hi>Clopton Havers,</hi> M. D.</item>
+               <item>
+                  <hi>Anthony Horneck,</hi> D. D.</item>
+               <item>Sir <hi>Edmund King,</hi> Knight.</item>
+               <item>
+                  <hi>Richard Kidder,</hi> Rector of St. <hi>Martins Outwitch.</hi>
+               </item>
+               <item>Sir <hi>James Langham,</hi> Knight and Baronet.</item>
+               <item>
+                  <hi>Richard Lower,</hi> M. D.</item>
+               <item>
+                  <hi>Martin Liſter,</hi> M. D.</item>
+               <item>Sir <hi>Thomas Millington,</hi> Knight. <hi>Nat. Philoſoph. Prof. Sidleian.</hi> Oxon.</item>
+               <item>
+                  <hi>Ferdinandus Mendes,</hi> M. D. <hi>Regis &amp; Re<g ref="char:EOLhyphen"/>ginae</hi> Catharinae <hi>Medicus.</hi>
+               </item>
+               <item>Sir <hi>Anthony Maine,</hi> Baronet.</item>
+               <item>
+                  <hi>John Mathew,</hi> Eſq;</item>
+               <item>
+                  <hi>John Maſter,</hi> M. D.</item>
+               <item>
+                  <hi>Walter Needham,</hi> M. D.</item>
+               <item>
+                  <hi>Thomas Pittis,</hi> D. D.</item>
+               <item>
+                  <hi>Robert Pitt,</hi> M. D.</item>
+               <item>
+                  <hi>Thomas Revell,</hi> M. D.</item>
+               <item>Sir <hi>Charles Scarburgh,</hi> Med. Reg. Pri<g ref="char:EOLhyphen"/>marius.</item>
+               <item>
+                  <hi>William Sydenham,</hi> M. D.</item>
+               <item>
+                  <hi>Edward Tyſon,</hi> M. D.</item>
+               <item>
+                  <hi>William Waldegrave,</hi> M. D. <hi>&amp; Se<g ref="char:EOLhyphen"/>reniſſimae Reginae</hi> Mariae <hi>à Conſiliis Medicis.</hi>
+               </item>
+               <item>Sir <hi>Thomas Witherley,</hi> Coll. Medd. Lond. Praeſes, &amp; Medicus Regius Ordina<g ref="char:EOLhyphen"/>rius.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
